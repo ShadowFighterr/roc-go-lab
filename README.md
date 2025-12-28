@@ -195,5 +195,3 @@ It highlights core distributed systems concepts including networking, failure ha
 ## Author
 
 Azamat Ubaidullauly
-
-```
